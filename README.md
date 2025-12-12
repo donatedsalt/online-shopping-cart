@@ -1,5 +1,7 @@
 # Online Shopping Cart
 
+**THIS IS A APTECH ASSIGNMENT**
+
 A E-Commerce mainly focused on selling stationary and gift items.
 
 ## Video Preview
