@@ -8,8 +8,10 @@ Youtube Link : [youtu.be/iJ-0xQEc3Fs](https://youtu.be/iJ-0xQEc3Fs)
 
 ## Live Preview
 
-Link : [mohsinkhan.freewebhostmost.com](https://mohsinkhan.freewebhostmost.com) \
-Credentials: [Credentials](#credentials)
+**LIVE PREVIEW NOT AVAILABLE**
+
+~~Link : [mohsinkhan.freewebhostmost.com](https://mohsinkhan.freewebhostmost.com)~~ \
+~~Credentials: [Credentials](#credentials)~~
 
 ## Features
 
